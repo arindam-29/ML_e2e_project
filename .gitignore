@@ -120,7 +120,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.artifacts/
+.artifacts
+.cataboost_info
 .logs
 .notebooks/cataboost_info
 .env
