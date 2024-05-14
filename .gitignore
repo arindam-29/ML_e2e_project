@@ -138,6 +138,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# model store
+notebook/catboost_info/
+
 # mypy
 .mypy_cache/
 .dmypy.json
